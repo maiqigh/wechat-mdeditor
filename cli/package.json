@@ -1,0 +1,12 @@
+{
+  "name": "wechat-mdeditor-cli",
+  "version": "0.1.0",
+  "private": true,
+  "description": "CLI for converting Markdown to WeChat-compatible inline-styled HTML",
+  "bin": {
+    "wxmd": "./index.js"
+  },
+  "dependencies": {
+    "marked": "0.7.0"
+  }
+}

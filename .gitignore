@@ -141,3 +141,7 @@ Temporary Items
 
 .idea/markdown-navigator/
 .idea/misc.xml
+
+# CLI
+cli/node_modules/
+cli/package-lock.json
